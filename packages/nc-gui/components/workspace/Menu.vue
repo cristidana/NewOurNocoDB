@@ -9,13 +9,12 @@
       >
         <a
           class="w-10 min-w-10 transition-all duration-200 p-1 transform"
-          href="https://github.com/nocodb/nocodb"
-          target="_blank"
+          
         >
           <img width="25" alt="NocoDB" src="~/assets/img/icons/256x256.png" />
         </a>
 
-        <div class="font-semibold text-base">Nocodb</div>
+        <div class="font-semibold text-base">CreateGo</div>
         <div class="flex flex-grow"></div>
       </div>
     </div>
