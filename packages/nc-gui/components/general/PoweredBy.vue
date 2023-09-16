@@ -14,6 +14,6 @@ const { isLoading } = useGlobal()
       <GeneralNocoIcon v-bind="$attrs" :animate="isLoading" class="!relative !top-0" :size="32" />
     </span>
 
-    <span>Powered by CreateGo</span>
+    <span>Powered by NocoDB</span>
   </button>
 </template>
